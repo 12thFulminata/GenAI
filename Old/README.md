@@ -1,1 +1,1 @@
-Some old projects on Generative AI before the emeergence of Large Language Models
+Some old projects on Generative AI before the emergence of Large Language Models
